@@ -1,0 +1,5 @@
+Green block- human
+Red blocks - virus
+In this game the player controls the green block using the left and right arrow key.
+In order to strt the game click on the game window and start playing.
+Aim of the game is to avoid the blocks in order to stay safe.
